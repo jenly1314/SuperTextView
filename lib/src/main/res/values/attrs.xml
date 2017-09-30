@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SuperTextView">
+        <attr name="dynamicText" format="string"/>
+        <attr name="duration" format="integer"/>
+        <attr name="selectedColor" format="color"/>
+        <attr name="dynamicStyle" format="enum">
+            <enum name="normal" value="0"/>
+            <enum name="typewriting" value="1"/>
+            <enum name="changeColor" value="2"/>
+        </attr>
+    </declare-styleable>
+</resources>
