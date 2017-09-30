@@ -1,4 +1,4 @@
-# supertextview
+# SuperTextView
 [![Download](https://img.shields.io/badge/download-App-blue.svg)](https://raw.githubusercontent.com/jenly1314/SuperTextView/master/app/app-release.apk)
 [![](https://jitpack.io/v/jenly1314/supertextview.svg)](https://jitpack.io/#jenly1314/SuperTextView)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/mit-license.php)
@@ -45,10 +45,10 @@ allprojects {
 
 布局
 ```Xml
-    <com.king.view.supertextview.SuperTextView
-        android:id="@+id/superTextView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+<com.king.view.supertextview.SuperTextView
+    android:id="@+id/superTextView"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" />
 ```
 
 
