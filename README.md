@@ -16,17 +16,17 @@ SuperTextView for Android 是一个在TextView的基础上扩展了几种动画�
 <dependency>
   <groupId>com.king.view</groupId>
   <artifactId>supertextview</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <type>pom</type>
 </dependency>
 ```
 ### Gradle:
 ```gradle
-compile 'com.king.view:supertextview:1.0.0'
+compile 'com.king.view:supertextview:1.0.1'
 ```
 ### Lvy:
 ```lvy
-<dependency org='com.king.view' name='supertextview' rev='1.0.0'>
+<dependency org='com.king.view' name='supertextview' rev='1.0.1'>
   <artifact name='$AID' ext='pom'></artifact>
 </dependency>
 ```
