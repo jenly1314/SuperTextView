@@ -68,19 +68,19 @@ supertextview.start();
 
 
 ## 关于我
-   Name: Jenly
+   Name: <a title="关于作者" href="https://about.me/jenly1314" target="_blank">Jenly</a>
 
-   Email: jenly1314@gmail.com / jenly1314@vip.qq.com
+   Email: <a title="欢迎邮件与我交流" href="mailto:jenly1314@gmail.com" target="_blank">jenly1314#gmail.com</a> / <a title="给我发邮件" href="mailto:jenly1314@vip.qq.com" target="_blank">jenly1314#vip.qq.com</a>
 
-   CSDN: http://blog.csdn.net/jenly121
+   CSDN: <a title="CSDN博客" href="http://blog.csdn.net/jenly121" target="_blank">jenly121</a>
 
-   Github: https://github.com/jenly1314
+   Github: <a title="Github开源项目" href="https://github.com/jenly1314" target="_blank">jenly1314</a>
 
    微信公众号:
 
    ![公众号](http://olambmg9j.bkt.clouddn.com/jenly666.jpg)
-   
-   加入QQ群: [20867961](http://shang.qq.com/wpa/qunwpa?idkey=8fcc6a2f88552ea44b1411582c94fd124f7bb3ec227e2a400dbbfaad3dc2f5ad)
+
+   加入QQ群: <a title="点击加入QQ群" href="http://shang.qq.com/wpa/qunwpa?idkey=8fcc6a2f88552ea44b1411582c94fd124f7bb3ec227e2a400dbbfaad3dc2f5ad" target="_blank">20867961</a>
    
    
    
