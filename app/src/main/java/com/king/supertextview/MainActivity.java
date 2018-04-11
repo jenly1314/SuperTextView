@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         superTextView = (SuperTextView) findViewById(R.id.superTextView);
-        superTextView.setDynamicText("莫听穿林打叶声，何方吟啸且徐行。\n竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。");
+        superTextView.setDynamicText("莫听穿林打叶声，何妨吟啸且徐行。\n竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。");
         superTextView.setOnDynamicListener(new SuperTextView.OnDynamicListener() {
             @Override
             public void onChange(int position) {

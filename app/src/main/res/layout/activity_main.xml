@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:minHeight="60dp"
         android:lineSpacingMultiplier="1.2"
-        android:textSize="20sp"
+        android:textSize="18sp"
         app:layout_constraintRight_toRightOf="parent"
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
